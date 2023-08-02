@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -28,10 +29,11 @@ bin/
 ### Mac OS ###
 .DS_Store
 out/
-qa68java1.1
+qa68java1.1/
 .idea
-qa68java1.1.iml
+qa68java1.1.iml/
 .iml/
 .idea/
 .iml
+qa68java1.1.iml
 
