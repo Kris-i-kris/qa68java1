@@ -27,8 +27,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea/
 out/
+qa68java1.1
+.idea
+qa68java1.1.iml
 .iml/
-
+.idea/
+.iml
 
